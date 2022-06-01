@@ -1,0 +1,1 @@
+stud.o: ../stud.c
